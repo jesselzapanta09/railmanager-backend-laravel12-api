@@ -1,6 +1,6 @@
 # MSIT 114 - Activity 23 - Improved Laravel API with Front-End
 
-This project is the **Laravel 12 backend API** for the RailManager system, built using Flask, flask-mysqldb, PyJWT, and flask-cors to handle data processing, authentication, email verification, and image management for users and train entities.
+This project is the **Laravel 12 backend API** for the RailManager system, built using Laravel 12 php framework.
 
 ## Requirements
 
