@@ -27,12 +27,12 @@ composer install
 
 ### Step 3: Run migration or Import the Database
 
-# Option 1: Run migration
+### Option 1: Run migration
 
 ```cmd
 php artisan migrate:fresh
 ```
-# Option 2: Import the Database
+### Option 2: Import the Database
 
 1. Open your MySQL client (e.g., MySQL Workbench, phpMyAdmin, or CLI).
 2. Create a new database:
