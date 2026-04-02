@@ -4,11 +4,7 @@ This project is the **Laravel 12 backend API** for the RailManager system, built
 
 ## Requirements
 
-Before running the project, install:
-
-- Python 3.10 or newer
-- MySQL server
-- `pip`
+- [Composer](https://getcomposer.org/)
 
 ## Installation & Setup
 
